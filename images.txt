@@ -1,2 +1,1 @@
-docker.litellm.ai/berriai/litellm:main-stable
-hermes-agent
+nousresearch/hermes-agent
